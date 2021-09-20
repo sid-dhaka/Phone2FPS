@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Desi_Katta</string>
+    <string name="ip">Enter IP</string>
+    <string name="ipButton">Enter</string>
+    <string name="calibrateButton">Calibrate</string>
+    <string name="info">Open PC application</string>
+    <string name="controlLayout">Controls</string>
+    <string name="recreate">RECREATE</string>
+    <string name="exit">EXIT</string>
+    <string name="mouseButton1">MOUSE BUTTON 1</string>
+    <string name="mouseButton2">MOUSE BUTTON 2</string>
+    <string name="reload">Reload</string>
+</resources>
